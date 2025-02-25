@@ -14,11 +14,8 @@ Web開発の学習記録をまとめています。
 - バージョン管理: Git, GitHub
 
 ## 内容
-- 📂 learning-notes/ # 学習項目ごとのメモ 
-  - 01_名前を表示するフォーム.md 
-- 📂 react/ # Reactの学習コード 
-  - 📂 01_display-name-form/ # 名前を表示するフォーム 
-
+- learning-notes/ # 学習項目ごとのメモ 
+- react/ # Reactの学習項目ごとのコード 
 ---
 
 ## 学習の方針：**小さく作りながら学ぶ**
